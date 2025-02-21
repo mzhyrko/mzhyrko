@@ -23,7 +23,7 @@ I'm Mikhail Zhyrko, a passionate student who loves exploring new technologies an
 - Repository: [mzhyrko/tic-tac-toe](https://github.com/mzhyrko/tic-tac-toe)
 - Stars: 0
 - Contributions: 5
-- Languages: Ada, Python, and C
+- Languages: Ada, Python, C, C++
 
 ## About Me
 
@@ -31,7 +31,7 @@ I'm a programmer with a growing interest in a variety of programming languages, 
 
 ## Contact Information
 
-- Email: [mzhyrko@example.com](mailto:mikhail.zhirko@gmail.com)
+- Email: [mikhail.zhirko@gmail.com](mailto:mikhail.zhirko@gmail.com)
 
 ## Analysis of my GitHub Profile
 
